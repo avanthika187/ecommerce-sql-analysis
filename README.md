@@ -5,9 +5,16 @@ E-commerce sales and customer analytics using SQL and SQLite
 ## Project Overview
 
 This project analyzes e-commerce sales and customer transaction data using SQL and SQLite.
-
 The objective is to understand sales performance, customer purchasing behavior, product performance, order trends, cancellations, and revenue patterns.
 
+## Key Business Insights
+
+- The company generated total revenue of **₹5,132,320** from non-cancelled orders.
+- **Wearables** generated the highest category revenue at **₹1,134,740**, making it the strongest-performing product category.
+- The **Smart Watch** was the highest-revenue product, generating **₹539,910**.
+- Monthly revenue was highest in **January 2025**, generating **₹1,060,452**, and showed a declining trend toward July.
+- The overall order cancellation rate was **6%**, with **20 cancelled orders out of 300 total orders**.
+- City-level revenue analysis was performed to identify the strongest-performing customer locations.
 ## Business Problem
 
 An e-commerce company wants to analyze its transactional data to identify:
